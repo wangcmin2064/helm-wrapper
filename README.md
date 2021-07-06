@@ -2,6 +2,8 @@
 
 + [中文文档](README_CN.md)
 
+测试
+
 helm-wrapper is a helm3 HTTP wrapper with [helm Go SDK](https://helm.sh/docs/topics/advanced/#go-sdk). With helm-wrapper, you can use HTTP RESTFul API do something like helm commondline (install/uninstall/upgrade/get/list/rollback...).
 
 ## Support API
